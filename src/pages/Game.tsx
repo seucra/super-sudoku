@@ -357,18 +357,18 @@ const SettingsAndInformation = () => {
           <h2 className="text-3xl font-bold text-white">{t("about")}</h2>
           <p className="text-white">
             {t("about_text")}{" "}
-            <a target="_blank" className="underline" href="https://github.com/TN1ck/super-sudoku" rel="noreferrer">
+            <a target="_blank" className="underline" href="https://github.com/seucra/super-sudoku" rel="noreferrer">
               Github
             </a>
             .{" "}
-            <a href="https://tn1ck.com" target="_blank" className="hover:underline" rel="noreferrer">
+            <a href="https://seucra.tech" target="_blank" className="hover:underline" rel="noreferrer">
               {t("created_by")}
             </a>
             {t("report_issue")}{" "}
             <a
               target="_blank"
               className="underline"
-              href="https://github.com/TN1ck/super-sudoku/issues"
+              href="https://github.com/seucra/super-sudoku/issues"
               rel="noreferrer"
             >
               Github
